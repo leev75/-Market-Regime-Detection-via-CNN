@@ -4,7 +4,7 @@
 
 ---
 ## poster pdf : 
-![Poster](Market Regime CNN — A1 Landscape.pdf)
+![Poster](Market_Regime_CNN.pdf)
 
 
 
