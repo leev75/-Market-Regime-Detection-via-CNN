@@ -3,6 +3,10 @@
 > Detecting Bull, Bear, and Neutral market regimes by treating correlation structure as an image classification problem.
 
 ---
+## poster pdf : 
+![Poster](Market Regime CNN — A1 Landscape.pdf)
+
+
 
 ## Overview
 
