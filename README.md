@@ -5,7 +5,6 @@
 ---
 ## poster pdf : 
 ![Poster](Market_Regime_CNN.pdf)
-<img width="1979" height="776" alt="image" src="https://github.com/user-attachments/assets/15a8d568-44be-41ab-83bd-1bc0a533df3b" />
 
 
 
